@@ -3,7 +3,7 @@
 
 ![image](https://github.com/user-attachments/assets/ca9824eb-4288-4c88-a552-1a75d8ba4c1a)
 
-Поддержка Языков:
+# Поддержка Языков:
 
 [X]RU
 
