@@ -1,0 +1,6 @@
+C:\Users\Ryzik\Documents\SharpDevelop Projects\HashGeneratorConsole\HashGeneratorConsole\obj\Debug\HashGeneratorConsole.csprojResolveAssemblyReference.cache
+C:\Users\Ryzik\Documents\SharpDevelop Projects\HashGeneratorConsole\HashGeneratorConsole\bin\Debug\HashGeneratorConsole.exe.config
+C:\Users\Ryzik\Documents\SharpDevelop Projects\HashGeneratorConsole\HashGeneratorConsole\bin\Debug\HashGeneratorConsole.exe
+C:\Users\Ryzik\Documents\SharpDevelop Projects\HashGeneratorConsole\HashGeneratorConsole\bin\Debug\HashGeneratorConsole.pdb
+C:\Users\Ryzik\Documents\SharpDevelop Projects\HashGeneratorConsole\HashGeneratorConsole\obj\Debug\HashGeneratorConsole.exe
+C:\Users\Ryzik\Documents\SharpDevelop Projects\HashGeneratorConsole\HashGeneratorConsole\obj\Debug\HashGeneratorConsole.pdb
